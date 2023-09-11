@@ -1,4 +1,5 @@
 # Python_Data_Analytics_Project1
+- This is a end to end data analysis project using python. The data file type is 'CSV'.
 
 # Objectives: 
 - Improve customer experience by analyzing sales data
